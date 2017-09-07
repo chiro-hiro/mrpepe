@@ -56,6 +56,7 @@ This source code create UDP datagram connect to server following configuration. 
 # Future works
 - Support callback function
 - Parsing parameters in `Buffer` type
+- Encrypt transfer data
 
 # License
 This software distributed under [MIT License](https://github.com/tad88dev/pepe/blob/master/LICENSE)
