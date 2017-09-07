@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://www.npmjs.com/package/pepe">
+    <a href="https://www.npmjs.com/package/mrpepe">
         <img src="https://raw.githubusercontent.com/tad88dev/content/master/pepe/mr-pepe.jpg">
     </a>
 </p>

@@ -1,6 +1,6 @@
 {
   "name": "mrpepe",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Mr. Pepe provide protocol to work with remote object over UDP.",
   "main": "index.js",
   "scripts": {
