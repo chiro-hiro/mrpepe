@@ -9,7 +9,7 @@ Mr. Pepe provide protocol to work with remote object over UDP.
 
 # How to create Mr. Pepe server?
 ```javascript
-const mrPepe = require('pepe');
+const mrPepe = require('mrpepe');
 const crypto = require('crypto');
 
 var localObject = {
@@ -35,7 +35,7 @@ This source code create a service binding to port 3301 with 4 child process. All
 
 # How to create Mr. Pepe client?
 ```javascript
-const mrPepe = require('pepe');
+const mrPepe = require('mrpepe');
 
 var client = new mrPepe.client({
     address: '127.0.0.1',
